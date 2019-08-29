@@ -1,9 +1,6 @@
 Hello World!!
 Hello World!!
 Hello World!!
-<<<<<<< HEAD
 Hello World!! X
 Hello World!! XX
-=======
 Hello World!! YYY
->>>>>>> y
